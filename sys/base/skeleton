@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+
+echo "this is an empty skeleton."
