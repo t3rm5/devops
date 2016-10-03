@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+
+echo "generate an error and will stop:"
+ls UnknowDir
+
+echo "THIS DOES NOT PRINT"

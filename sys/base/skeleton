@@ -1,0 +1,19 @@
+#!/bin/bash
+
+source ./env
+
+
+function empty {
+	return
+}
+
+
+function myecho {
+	echo $1
+}
+
+
+echo "this is an empty skeleton."
+empty
+myecho "Hello"
+
